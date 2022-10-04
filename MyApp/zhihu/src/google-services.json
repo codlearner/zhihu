@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "653831423983",
+    "project_id": "my-zhihu-ee447",
+    "storage_bucket": "my-zhihu-ee447.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653831423983:android:78606123cb5978a97a581a",
+        "android_client_info": {
+          "package_name": "com.ZhiHu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653831423983-47m4p1frr4qr8ebltbevutqsvkve01fu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfsOnETx_Tnqv-a0yN1ZLKu4TkWlOniIw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653831423983-47m4p1frr4qr8ebltbevutqsvkve01fu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653831423983:android:0a2ca226608584567a581a",
+        "android_client_info": {
+          "package_name": "com.zhihu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653831423983-47m4p1frr4qr8ebltbevutqsvkve01fu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfsOnETx_Tnqv-a0yN1ZLKu4TkWlOniIw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653831423983-47m4p1frr4qr8ebltbevutqsvkve01fu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
